@@ -10,4 +10,4 @@ script:
 deploy:
   provider: heroku
   api_key: $APIKEYHEROKU
-  app: pure-thicket-71856
+  app: univallecursods2
